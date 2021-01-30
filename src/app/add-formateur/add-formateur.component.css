@@ -1,0 +1,26 @@
+.container{
+    font-family:fantasy;
+    position: absolute;
+    left:350px;
+    top:190px;
+}
+input{
+    width: 400px;
+}
+   
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left:600px;
+    top:110px;
+    color: blue;
+}
+#ajout{
+    cursor: pointer;
+    position: absolute;
+    left:750px;
+    top:350px;
+    width: 120px;
+    height: 40px;
+
+}
